@@ -2,7 +2,7 @@
 # Project Datascrape
 I've always thought the idea of pulling data from the web was intriguing. With the help of a few youtube tutorials, I've started toying around with data scraping using the beautiful soup library.
 ## Installation
-Pull the code and run the driver file. The beautiful soup plug in is required.
+Pull the code and run the driver file. The BeautifulSoup plug in is required.
 ## Usage
 Run the driver file
 ## History
