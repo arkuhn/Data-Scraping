@@ -14,7 +14,3 @@ Run the driver file
 ## History
 Originally this was only a yellow pages data srape. Its since become an excuse to 
 also learn Tkinter and potentially poll other websites. Dictionary & weather to come!
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
